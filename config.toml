@@ -75,7 +75,30 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
 [permalinks]
   posts = "/post/:year-:month-:slug/"
   talks = "/talk/:year-:slug/"
-  
+
+[params]
+name = "Anusha Avyukt"
+role = "Graduate Student"
+organizations = [ { name = "Cornell University", url = "" } ]
+
+gravatar = false  # Get your avatar from Gravatar.com? (true/false)
+avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+
+
+# Details for the Contact Widget
+email = "anusha.avyukt@gmail.com"
+address = "Ithaca, New York"
+
+# SITE SETUP
+
+# Color theme.
+#   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
+color_theme = "forest"
+
+# Enable global LaTeX math rendering?
+#   If false, you can enable it locally on a per page basis.
+math = true
+
 
 [[params.social]]
   icon = "university"
@@ -108,21 +131,26 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
 # The weight parameter defines the order that the links will appear in.
 
 [[menu.main]]
-  name = "Anusha Avyukt"
-  url = "/anushaa1/"
+  name = "Home"
+  url = "#about"
   weight = 1
 
 [[menu.main]]
   name = "Projects"
-  url = "/project/"
+  url = "#projects"
   weight = 2
 
 
 [[menu.main]]
   name = "Posts"
-  url = "/post/"
+  url = "#posts"
   weight = 3
   
+# [[menu.main]]
+#   name = "Tutorials"
+#   url = "/tutorial/"
+#   weight = 5
+
 [[menu.main]]
   name = "Publications"
   url = "/publications/"
@@ -130,12 +158,12 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
 
 [[menu.main]]
   name = "Resume"
-  url = "/resume/"
+  url = "file/resume.pdf"
   weight = 5
 
 [[menu.main]]
-  name = "About"
-  url = "/about/"
+  name = "Contact"
+  url = "#contact"
   weight = 6
 
   
