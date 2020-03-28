@@ -13,7 +13,7 @@ baseurl = "https://anushaa1.netlify.com"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = ""
+copyright = "&copy; Anusha Avyukt, {year}"
 
 ############################
 ## Advanced options below ##
@@ -70,3 +70,72 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
   category = "categories"
   publication_type = "publication_types"
   author = "authors"
+  
+# Permalinks
+[permalinks]
+  posts = "/post/:year-:month-:slug/"
+  talks = "/talk/:year-:slug/"
+  
+
+[[params.social]]
+  icon = "university"
+  icon_pack = "fa"
+  link = "https://stat.cornell.edu"
+  text = "Department of Statistics & Data Science, Cornell University, Ithaca, New York, United States."
+
+[[params.social]]
+  icon = "envelope"
+  icon_pack = "fa"
+  link = "mailto:aa2686@cornell.edu"
+  text = "aa2686 at cornell dot edu"
+
+[[params.social]]
+  icon = "twitter"
+  icon_pack = "fa"
+  link = "https://twitter.com/gavyukt"
+  text = "@gavyukt"
+  site = "Twitter"
+
+[[params.social]]
+  icon = "github-alt"
+  icon_pack = "fa"
+  link = "https://github.com/avyukt/"
+  text = "avyukt"
+  site = "GitHub"
+
+
+# Navigation Links
+# The weight parameter defines the order that the links will appear in.
+
+[[menu.main]]
+  name = "Anusha Avyukt"
+  url = "/anushaa1/"
+  weight = 1
+
+[[menu.main]]
+  name = "Projects"
+  url = "/project/"
+  weight = 2
+
+
+[[menu.main]]
+  name = "Posts"
+  url = "/post/"
+  weight = 3
+  
+[[menu.main]]
+  name = "Publications"
+  url = "/publications/"
+  weight = 4
+
+[[menu.main]]
+  name = "Resume"
+  url = "/resume/"
+  weight = 5
+
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 6
+
+  
