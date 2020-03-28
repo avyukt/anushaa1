@@ -91,3 +91,4 @@ Feel free to *star* the project on [Github](https://github.com/gcushen/hugo-acad
 Copyright 2016-present [George Cushen](https://georgecushen.com).
 
 Released under the [MIT](https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md) license.
+
