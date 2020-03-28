@@ -1,2 +1,2 @@
-# anushaa1
+# Anusha Avyukt
 My personal website
