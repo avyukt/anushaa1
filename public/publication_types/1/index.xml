@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 on Anusha Avyukt</title>
-    <link>/publication_types/1/</link>
+    <link>https://anushaa1.netlify.com/publication_types/1/</link>
     <description>Recent content in 1 on Anusha Avyukt</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Anusha Avyukt, {year}</copyright>
     <lastBuildDate>Sat, 23 Feb 2019 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://anushaa1.netlify.com/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My INET conference paper</title>
-      <link>/project/conference-paper/</link>
+      <link>https://anushaa1.netlify.com/project/conference-paper/</link>
       <pubDate>Sat, 23 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/project/conference-paper/</guid>
+      <guid>https://anushaa1.netlify.com/project/conference-paper/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
@@ -26,10 +26,10 @@
     
     <item>
       <title>My INET conference paper</title>
-      <link>/publication/conference-paper/</link>
+      <link>https://anushaa1.netlify.com/publication/conference-paper/</link>
       <pubDate>Sat, 23 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/publication/conference-paper/</guid>
+      <guid>https://anushaa1.netlify.com/publication/conference-paper/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;

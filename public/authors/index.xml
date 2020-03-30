@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Anusha Avyukt</title>
-    <link>/authors/</link>
+    <link>https://anushaa1.netlify.com/authors/</link>
     <description>Recent content in Authors on Anusha Avyukt</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Anusha Avyukt, {year}</copyright>
     <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://anushaa1.netlify.com/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>kelly</title>
-      <link>/authors/kelly/</link>
+      <link>https://anushaa1.netlify.com/authors/kelly/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/authors/kelly/</guid>
+      <guid>https://anushaa1.netlify.com/authors/kelly/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>/authors/anusha/</link>
+      <link>https://anushaa1.netlify.com/authors/anusha/</link>
       <pubDate>Sat, 23 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/authors/anusha/</guid>
+      <guid>https://anushaa1.netlify.com/authors/anusha/</guid>
       <description>&lt;p&gt;I am studying Applied Statistics at Cornell University as a graduate program in professional studies. 
 I love learning from big messy data and gather insights from data visualization and rigorius statistical analysis.&lt;/p&gt;
 &lt;p&gt;Download my resume &lt;a href=&#34;files/resume.pdf&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
@@ -36,19 +36,19 @@ I love learning from big messy data and gather insights from data visualization 
     
     <item>
       <title>Anusha Avyukt</title>
-      <link>/authors/anusha-avyukt/</link>
+      <link>https://anushaa1.netlify.com/authors/anusha-avyukt/</link>
       <pubDate>Sat, 23 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/authors/anusha-avyukt/</guid>
+      <guid>https://anushaa1.netlify.com/authors/anusha-avyukt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>lisa</title>
-      <link>/authors/lisa/</link>
+      <link>https://anushaa1.netlify.com/authors/lisa/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>/authors/lisa/</guid>
+      <guid>https://anushaa1.netlify.com/authors/lisa/</guid>
       <description></description>
     </item>
     
