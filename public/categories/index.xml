@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Anusha Avyukt</title>
-    <link>https://anushaa1.netlify.com/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on Anusha Avyukt</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Anusha Avyukt, {year}</copyright>
     
-	    <atom:link href="https://anushaa1.netlify.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

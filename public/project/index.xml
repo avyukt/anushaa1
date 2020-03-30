@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Anusha Avyukt</title>
-    <link>https://anushaa1.netlify.com/project/</link>
+    <link>/project/</link>
     <description>Recent content in Projects on Anusha Avyukt</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Anusha Avyukt, {year}</copyright>
     <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://anushaa1.netlify.com/project/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>An example preprint / working paper</title>
-      <link>https://anushaa1.netlify.com/project/preprint/</link>
+      <link>/project/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://anushaa1.netlify.com/project/preprint/</guid>
+      <guid>/project/preprint/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
 </description>
@@ -25,10 +25,10 @@
     
     <item>
       <title>My INET conference paper</title>
-      <link>https://anushaa1.netlify.com/project/conference-paper/</link>
+      <link>/project/conference-paper/</link>
       <pubDate>Sat, 23 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://anushaa1.netlify.com/project/conference-paper/</guid>
+      <guid>/project/conference-paper/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
@@ -37,10 +37,10 @@
     
     <item>
       <title>An example journal article</title>
-      <link>https://anushaa1.netlify.com/project/journal-article/</link>
+      <link>/project/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://anushaa1.netlify.com/project/journal-article/</guid>
+      <guid>/project/journal-article/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;

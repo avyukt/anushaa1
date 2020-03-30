@@ -2,40 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Anusha Avyukt</title>
-    <link>https://anushaa1.netlify.com/</link>
+    <link>/</link>
     <description>Recent content on Anusha Avyukt</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Anusha Avyukt, {year}</copyright>
-    <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Jun 2018 00:00:00 +0100</lastBuildDate>
     
-	    <atom:link href="https://anushaa1.netlify.com/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Projects</title>
-      <link>https://anushaa1.netlify.com/project/</link>
+      <link>/project/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://anushaa1.netlify.com/project/</guid>
+      <guid>/project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://anushaa1.netlify.com/publication/</link>
+      <link>/publication/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://anushaa1.netlify.com/publication/</guid>
+      <guid>/publication/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/privacy/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>post</title>
-      <link>https://anushaa1.netlify.com/post/</link>
+      <link>/post/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anushaa1.netlify.com/post/</guid>
+      <guid>/post/</guid>
       <description></description>
     </item>
     
