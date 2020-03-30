@@ -1,12 +1,12 @@
-{{- define "main" -}}
-
 {{/* List of all authors. */}}
+
+{{- define "main" -}}
 
 {{ partial "page_header.html" . }}
 
 <div class="universal-wrapper">
   {{ with .Content }}
-  <div class="article-style">{{ . }}</div>
+  <div class="article-style" itemprop="articleBody">{{ . }}</div>
   {{ end }}
 
   <ul>

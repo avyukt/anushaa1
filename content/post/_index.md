@@ -2,6 +2,7 @@
 header:
   caption: ""
   image: ""
-title: Posts
+title: post
 view: 2
+url: post
 ---
