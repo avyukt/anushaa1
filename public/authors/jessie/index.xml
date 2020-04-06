@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>jessie on Anusha Avyukt</title>
+    <link>/authors/jessie/</link>
+    <description>Recent content in jessie on Anusha Avyukt</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Anusha Avyukt, {year}</copyright>
+    <lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/jessie/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>An example conference paper</title>
+      <link>/project/conference-paper/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/project/conference-paper/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

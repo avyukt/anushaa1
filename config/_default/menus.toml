@@ -32,15 +32,16 @@
 # To enable, copy your resume/CV to `static/files/cv.pdf` 
 
 
+# This is now for reference to include pages with pdf files 
+#[[main]]
+#	name = "CV"
+#	url = "#cv"
+#    weight = 50
+
 [[main]]
 	name = "Resume"
-	url = "#cv"
-    weight = 50
-
-#[[main]]
-#	name = "Resume"
-#	url = "static/files/resume.pdf"
-#   weight = 50
+	url = "files/anusha_cv.pdf"
+   weight = 60
 
 
 

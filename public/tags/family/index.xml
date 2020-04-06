@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Family on Anusha Avyukt</title>
+    <link>/tags/family/</link>
+    <description>Recent content in Family on Anusha Avyukt</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Anusha Avyukt, {year}</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/tags/family/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pull Up a Chair</title>
+      <link>/book/cookbook/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/book/cookbook/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://tiffanithiessen.com/cookbook/&#34;&gt;https://tiffanithiessen.com/cookbook/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>You&#39;re Missing It!</title>
+      <link>/book/youre-missing-it/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/book/youre-missing-it/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

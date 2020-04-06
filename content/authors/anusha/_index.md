@@ -19,8 +19,7 @@ interests:
 - Data Science
 - Statistics
 - Machine Learning
-- Predictive Modeling
-- Time Series Analysis
+- Explainable Models
 - Macroeconomic Modeling
 
 name: Anusha Avyukt
@@ -40,13 +39,9 @@ social:
   link: https://www.github.com/avyukt
 - icon: cv
   icon_pack: ai
-  link: "../static/files/resume.pdf"
+  link: "files/anusha_cv.pdf"
 superuser: true
 ---
 
 I am studying Applied Statistics at Cornell University as a graduate program in professional studies. 
-I love learning from big messy data and gather insights from data visualization and rigorius statistical analysis.
-
-Download my resume [here](files/resume.pdf)
-
-Download my resume [here](../cv/anusha_cv.pdf)
+I love learning from big messy data and gather insights from data visualization and rigorous statistical analysis.
