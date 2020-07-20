@@ -43,5 +43,5 @@ social:
 superuser: true
 ---
 
-I am studying Applied Statistics at Cornell University as a graduate program in professional studies. 
-I love learning from big messy data and gather insights from data visualization and rigorous statistical analysis.
+I am a recent graduate from the Applied Statistics program at the Cornell University.  I love learning from big messy data and gather insights from data visualization and rigorous statistical analysis to inform decision making under uncertainty. Prior to this, I was working at a policy think tank to build models that can help predict and explain economic movements at different time horizons. I am keen to explore approaches in statisical machine learning which go beyond predictions using past data and adapt to the radical uncertainty and changes in complex systems. 
+
